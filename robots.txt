@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://hcode.top/xojbackend-doc/sitemap.xml
